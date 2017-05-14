@@ -1,0 +1,14 @@
+body {
+	background-image: url("../img/food.png");
+}
+
+img {
+	width: 150px;
+	height: 150px;
+}
+
+.burgerOrder {
+	padding: 70px;
+	max-width: 50%;
+
+}
